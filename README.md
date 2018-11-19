@@ -12,6 +12,15 @@ This is the 3rd and final project of Term 3 and 13th project overall as part Uda
 This project involves End-End system integration for Self-driving Car that involves Perception, Planning & Control. The project involves implementing ROS(Robot Operating System) nodes to implement core functionality of the autonomous vehicle system, including traffic light classification, detection,waypoint generation, following & Controls. The code will be first tested in Udacity's Simulator, and once it passes through this stage, the code will be fed to Udacity's real Self driving Car a.k.a. *Carla* - how cool is it!
 
 ---
+
+### Test Lot Execution
+Here you go! Our code is run on Udacity's Self driving car a.k.a. *Carla*
+Here's the video feed of our code running on Carla on test lot in SFO
+
+[![Carla's Execution](writeup/images/Carla.jpg)](writeup/CarlaExecution.mp4)
+
+---
+
 ### The Team
 This is the project where all the learning over past 8 months of the program is put together. Due to the complexity and the breadth of work involved, Udacity recommends to work in teams for this project. 
 
