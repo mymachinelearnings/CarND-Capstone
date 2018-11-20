@@ -17,7 +17,7 @@ This project involves End-End system integration for Self-driving Car that invol
 Here you go! Our code is run on Udacity's Self driving car a.k.a. *Carla*
 Here's the video feed of our code running on Carla on test lot in SFO
 
-[![Carla's Execution](writeup/images/Carla.jpg)](writeup/CarlaExecution.mp4)
+[![Carla's Execution](writeup/images/Carla.jpg)](https://youtu.be/xIEOJJdo3No)
 
 ---
 
